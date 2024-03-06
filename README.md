@@ -1,6 +1,6 @@
 # LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation
 
-This repository is the official implementation of the paper [LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation (arxiv)](https://arxiv.org/abs/2305.11490).
+This repository is the implementation of the paper [LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation (arxiv)](https://arxiv.org/abs/2305.11490).
 
 ![llm2cxr](https://github.com/hyn2028/llm-cxr/assets/5181065/f2f3027e-1ab8-4fe5-bff6-82a4065176c9)
 
